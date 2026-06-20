@@ -1,1 +1,1 @@
-# Apple_Tomato-Classification
+# Apple-Tomato-Image-Classification
