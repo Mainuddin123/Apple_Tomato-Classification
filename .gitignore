@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+apple_tomato/
+apple_tomato.zip
+combined_fruit_dataset.csv
